@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112759063-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-112759063-1');
+		</script>
+        <meta charset="utf-8">
+        <title>Tapetoinnit</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/theme-navy.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
+        <link href="http://fonts.googleapis.com/css?family=Montserrat:100,300,400,600,700" rel="stylesheet" type="text/css">
+        <link href="css/font-montserrat.css" rel="stylesheet" type="text/css">
+    </head>
+
+    <body class="scroll-assist">
+				
+		<div class="nav-container"><nav>
+		        <div class="nav-bar">
+		            <div class="module left">
+		                <a href="suomi">
+		                    <img class="logo logo-light" alt="Sim-Expert" src="img/logo-light.png">
+		                    <div class="vnu"><img class="logo logo-dark" alt="Sim-Expert" src="img/logo_dark.png"></div>
+		                </a>
+		            </div>
+		            <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
+		                <i class="ti-menu"></i>
+		            </div>
+		            <div class="module-group right">
+		                <div class="module left">
+		                    <ul class="menu">
+		                        
+		                        
+		                        <li class="has-dropdown">
+		                            <a href="#">palvelut </a>
+		                            <ul>
+		                                <li class="has-dropdown toggle-sub">
+		                                    <a href="#">ulkotyöt</a>
+		                                    <ul>
+		                                        <li>
+		                                            <a href="rappaukset">rappaukset</a>
+		                                        </li><li class="vpf">
+		                                            <a href="terassit">terassit&nbsp;</a>
+		                                        </li><li class="vpf">
+		                                            <a href="pihakivityot">pihakivityöt</a>
+		                                        </li>
+		                                    </ul>
+		                                </li>
+		                                <li class="has-dropdown vpf">
+		                                    <a href="#">sisätyöt&nbsp;</a>
+		                                    <ul>
+		                                        <li>
+		                                            <a href="vedeneristystyot">vedeneristystyöt</a>
+		                                        </li><li class="vpf">
+		                                            <a href="takkamuuraukset">takkamuuraukset</a>
+		                                        </li><li class="vpf">
+		                                            <a href="paneloinnit">paneloinnit</a>
+		                                        </li><li class="vpf">
+		                                            <a href="maalaustyot">maalaustyöt&nbsp;</a>
+		                                        </li><li class="vpf">
+		                                            <a href="parkettiasennus">parkettiasennus</a>
+		                                        </li><li class="vpf">
+		                                            <a href="laatoitukset">laatoitukset</a>
+		                                        </li><li class="vpf">
+		                                            <a href="saunaremontit">saunaremontit</a>
+		                                        </li><li class="vpf">
+		                                            <a href="tapetoinnit">tapetoinnit</a>
+		                                        </li><li class="vpf">
+		                                            <a href="kylpyhuoneremontit">kylpyhuoneremontit&nbsp;</a>
+		                                        </li>
+		                                    </ul>
+		                                </li>
+		                            </ul>
+		                        </li>
+		                    </ul>
+		                </div>
+		                
+		                <div class="module widget-handle language left">
+		                    <ul class="menu">
+		                        <li class="has-dropdown">
+		                            <a href="avaleht">Est</a>
+		                            <ul>
+		                                <li>
+		                                    <a href="suomi">fin </a>
+		                                </li>
+		                                
+		                            </ul>
+		                        </li>
+		                    </ul>
+		                </div>
+		            </div>
+		            
+		        </div>
+		    </nav>
+		</div>
+		
+		<div class="main-container">
+		<section>
+		        <div class="container">
+		            <div class="row v-align-children">
+		                <div class="col-md-7 col-sm-6 text-center mb-xs-24">
+		                    <img class="cast-shadow" alt="Screenshot" src="img/teenus_9.png">
+		                </div>
+		                <div class="col-md-4 col-md-offset-1 col-sm-5 col-sm-offset-1">
+		                    <h3>Tapetoinnit</h3>
+		                    
+		                    
+		                </div>
+		            </div>
+		            
+		        </div>
+		        
+		    </section>
+		<footer class="footer-2 bg-dark">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+                            <a href="suomi">
+                                <img alt="Logo" class="image-xs mb32 fade-on-hover" src="img/logo3.png" />
+                            </a>
+                            <h5 class="fade-1-4">Joupinmäenpolku 4b-28
+                            	<br/> 02760 Espoo
+                            	<br/> Suomi
+                                <br/> &copy; 2017</h5>
+                        </div>
+                    </div>
+                    <!--end of row-->
+                </div>
+                <!--end of container-->
+            </footer>
+		</div>
+		
+				
+	<script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/parallax.js"></script>
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
+				

@@ -1,0 +1,14 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+h4.mb32 {
+	color: #E0DED6;
+}
+
+ul > li > a.hover:link,
+a.hover:visited,
+a.hover:active {
+	color: white;
+}
+
+ul > li > a.hover:hover {
+	color: #bbbbbb;
+}

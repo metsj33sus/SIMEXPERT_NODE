@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en">
+    <head>
+    	<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112759063-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-112759063-1');
+		</script>
+		<meta charset="utf-8">
+        <title>Sim-Expert</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/theme-navy.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
+        <link href="http://fonts.googleapis.com/css?family=Montserrat:100,300,400,600,700" rel="stylesheet" type="text/css">
+        <link href="css/font-montserrat.css" rel="stylesheet" type="text/css">
+    </head>
+
+    <body class="scroll-assist">
+				
+		<div class="nav-container"><nav class="absolute transparent">
+		        <div class="nav-bar">
+		            <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
+		                <i class="ti-menu"></i>
+		            </div>
+		            <div class="module-group right">
+		                <div class="module left">
+		                    <ul class="menu">
+		                        <li class="has-dropdown">
+		                            <a href="#" class="hover">teenused </a>
+		                            <ul>
+		                                <li class="has-dropdown toggle-sub">
+		                                    <a href="#">välitööd </a>
+		                                    <ul>
+		                                        <li>
+		                                            <a href="fassaaditood">fassaaditööd </a>
+		                                        </li><li class="vpf">
+		                                            <a href="terrassid">terrassid&nbsp;</a>
+		                                        </li><li class="vpf">
+		                                            <a href="unikivi-paigaldus">unikivi paigaldus </a>
+		                                        </li>
+		                                    </ul>
+		                                </li><li class="has-dropdown vpf">
+		                                    <a href="#">sisetööd&nbsp;</a>
+		                                    <ul>
+		                                        <li>
+		                                            <a href="hydroisolatsioon">hüdroisolatsioon </a>
+		                                        </li><li class="vpf">
+		                                            <a href="kamina-sudamike-paigaldus">
+		                                                kamina südamike paigaldus</a>
+		                                        </li><li class="vpf">
+		                                            <a href="lagede-ja-seinte-katmine-dekoratiivse-materjaliga">lagede ja seinte katmine dekoratiivse materjaliga</a>
+		                                        </li><li class="vpf">
+		                                            <a href="maalritood">maalritööd&nbsp;</a>
+		                                        </li><li class="vpf">
+		                                            <a href="parketi-paigaldus">parketi paigaldus </a>
+		                                        </li><li class="vpf">
+		                                            <a href="plaatimine">plaatimine </a>
+		                                        </li><li class="vpf">
+		                                            <a href="sauna-ehitus">sauna ehitus </a>
+		                                        </li><li class="vpf">
+		                                            <a href="tapeetimine">Tapeetimine </a>
+		                                        </li><li class="vpf">
+		                                            <a href="vannitoa-remont">vannitoa remont&nbsp;</a>
+		                                        </li>
+		                                    </ul>
+		                                </li>
+		                            </ul>
+		                        </li>
+		                    </ul>
+		                </div>
+		                <div class="module widget-handle language left">
+		                    <ul class="menu">
+		                        <li class="has-dropdown">
+		                            <a href="avaleht" class="hover">Est</a>
+		                            <ul>
+		                                <li>
+		                                    <a href="suomi" target="_self">Fin</a>
+		                                </li>
+		                            </ul>
+		                        </li>
+		                    </ul>
+		                </div>
+		            </div>
+		        </div>
+		    </nav>
+		</div>
+		<div class="main-container">
+		<section class="cover fullscreen image-slider slider-arrow-controls controls-inside parallax">
+		        <ul class="slides">
+		            <li class="overlay image-bg">
+		                <div class="background-image-holder">
+		                    <img alt="image" class="background-image" src="img/ej-yao-194786.jpg">
+		                </div>
+		                <div class="container v-align-transform">
+		                    <div class="row">
+		                        <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+		                            <img alt="Logo" class="image-small mb8" src="img/logo3.png">
+		                            <h4 class="mb32"><br><br>Parim lahendus Sinu kodule.</h4>
+		                            <p class="text-justify mb0"> </p>
+		                        </div>
+		                    </div>
+		                </div>
+		            </li>
+		        </ul>
+		</section>
+			<section class="image-square left bg-color">
+		        <div class="col-md-6 image">
+		            <div class="background-image-holder">
+		                <img alt="image" class="background-image" src="img/pigistus.jpg">
+		            </div>
+		        </div>
+		        <div class="col-md-offset-1 content col-md-6">
+		            <h3>Kes me oleme?</h3>
+		            <p class="mb0">Meie erakapitalil põhinev ettevõte loodi 2011. aasta sügisel põhjusega olla iseendale tööandjaks. Meie staaž ehitusvaldkonnas on pikk ja töökogemused suured. Firma põhitegevusaladeks on fassaadi- ja krohvitööd suvel ning talvel teostame kõikvõimalikke siseviimistlustöid.<br></p>
+		        </div>
+		    </section>
+		    <section class="image-square right bg-secondary">
+		        <div class="col-md-6 image">
+		            <div class="background-image-holder">
+		                <img alt="image" class="background-image" src="img/kasu.jpg">
+		            </div>
+		        </div>
+		        <div class="col-md-6 content">
+		            <h3>Mida saame Su heaks teha?</h3>
+		            <p class="mb0">Pakume kõrgekvaliteedilisi plaatimis-, kipsi- ja maalritöid ning kamina paigaldust nii sise- kui ka välisoludes. Töid oleme teostanud firmadele kui ka eraisikutele. Sim-Expert OÜ eesmärk on pakkuda kvaliteetset teenust ja olla usaldusväärne partner nii oma klientidele kui ka äripartneritele. Meie hinnapoliitika on paindlik. </p>
+		        </div>
+		    </section>
+		    <section>
+		        <div class="container">
+		            <div class="row">
+		                <div class="col-sm-12 text-center">
+		                    <h4 class="uppercase mb16">galerii tehtud töödest</h4>
+		                    <p class="lead mb64"> </p>
+		                </div>
+		            </div>
+		            
+		            <div class="row">
+		                <div class="col-sm-12">
+		                    <div class="lightbox-grid square-thumbs" data-gallery-title="tehtud tööd">
+		                        <ul>
+		                            <li>
+		                                <a href="img/simexpert_1.png" data-lightbox="true" data-title="image">
+		                                    <div class="background-image-holder">
+		                                        <img alt="image" class="background-image" src="img/simexpert_1.png">
+		                                    </div>
+		                                </a>
+		                            </li><li>
+		                                <a href="img/simexpert_2.png" data-lightbox="true" data-title="image">
+		                                    <div class="background-image-holder">
+		                                        <img alt="image" class="background-image" src="img/simexpert_2.png">
+		                                    </div>
+		                                </a>
+		                            </li>
+		                            <li>
+		                                <a href="img/simexpert_3.png" data-lightbox="true" data-title="image">
+		                                    <div class="background-image-holder">
+		                                        <img alt="image" class="background-image" src="img/simexpert_3.png">
+		                                    </div>
+		                                </a>
+		                            </li>
+		                            <li>
+		                                <a href="img/simexpert_4.png" data-lightbox="true" data-title="image">
+		                                    <div class="background-image-holder">
+		                                        <img alt="image" class="background-image" src="img/simexpert_4.png">
+		                                    </div>
+		                                </a>
+		                            </li>
+		                            <li>
+		                                <a href="img/simexpert_5.png" data-lightbox="true" data-title="image">
+		                                    <div class="background-image-holder">
+		                                        <img alt="image" class="background-image" src="img/simexpert_5.png">
+		                                    </div>
+		                                </a>
+		                            </li><li>
+		                                <a href="img/simexpert_6.png" data-lightbox="true" data-title="image">
+		                                    <div class="background-image-holder">
+		                                        <img alt="image" class="background-image" src="img/simexpert_6.png">
+		                                    </div>
+		                                </a>
+		                            </li>
+		                            
+		                            <li>
+		                                <a href="img/simexpert_7.png" data-lightbox="true" data-title="image">
+		                                    <div class="background-image-holder">
+		                                        <img alt="image" class="background-image" src="img/simexpert_7.png">
+		                                    </div>
+		                                </a>
+		                            </li>
+		                            <li>
+		                                <a href="img/simexpert_8.png" data-lightbox="true" data-title="image">
+		                                    <div class="background-image-holder">
+		                                        <img alt="image" class="background-image" src="img/simexpert_8.png">
+		                                    </div>
+		                                </a>
+		                            </li>
+		                            <li>
+		                                <a href="img/simexpert_9.png" data-lightbox="true" data-title="image">
+		                                    <div class="background-image-holder">
+		                                        <img alt="image" class="background-image" src="img/simexpert_9.png">
+		                                    </div>
+		                                </a>
+		                            </li><li>
+		                                <a href="img/simexpert_10.png" data-lightbox="true" data-title="image">
+		                                    <div class="background-image-holder">
+		                                        <img alt="image" class="background-image" src="img/simexpert_10.png">
+		                                    </div>
+		                                </a>
+		                            </li>
+		                        </ul>
+		                    </div>
+		                </div>
+		            </div>
+		        </div>
+		    </section>
+		    <!--<section class="image-square left bg-color-contact">
+                <div class="col-md-6 image">
+                    <div class="background-image-holder">
+                        <img alt="image" class="background-image" src="img/kontakt2.jpg" />
+                    </div>
+                </div>
+                <div class="col-md-6 col-md-offset-1 content">
+                    <h4 class="uppercase">Võta meiega ühendust</h4>
+                    <p>
+						Kui soovid midagi, mida teenuste nimekirjas ei ole, siis küsi ikkagi. Koos leiame lahenduse!
+                    </p>
+                    <hr>
+                    <p>
+                        Joupinmäenpolku 4b-28
+                        <br/> 02760 Espoo
+                        <br/> Y-tunnus: 2469223-2
+                        <br/> Registrikood: 12207999
+                    </p>
+                    <p>
+                        <strong>E-mail:</strong> info@simexpert.ee; pakkumine@simexpert.ee
+                        <br/>
+                        <strong>Telefon:</strong> +358 415042105
+                        <br/>
+                    </p>
+                </div>
+            </section>-->
+            <section class="bg-color-contact">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6 col-md-5">
+                            <h4 class="uppercase">Võta meiega ühendust</h4>
+                            <p>
+                                Kui soovid midagi, mida teenuste nimekirjas ei ole, siis küsi ikkagi. Koos leiame lahenduse!
+                            </p>
+                            <hr>
+                            <p>
+                                Joupinmäenpolku 4b-28
+                                <br/> 02760 Espoo
+                                <br/> Y-tunnus: 2469223-2
+                            	<br/> Registrikood: 12207999
+                            </p>
+                            <hr>
+                            <p>
+                                <strong>E-mail:</strong> info@simexpert.ee; pakkumine@simexpert.ee
+                                <br />
+                                <strong>Telefon:</strong> +358 415042105
+                                <br />
+                            </p>
+                        </div>
+                        <div class="col-sm-6 col-md-5 col-md-offset-1">
+                            <form method="post" action="/" class="form-email" data-success="Täname ühendust võtmast! Vastame Teile esimesel võimalusel." data-error="Palun täida kõik lüngad." id="ajax-form">
+                                <input type="text" class="validate-required" name="name" placeholder="Ees- ja perekonnanimi" />
+                                <input type="text" class="validate-required validate-email" name="email" placeholder="E-maili aadress" />
+                                <textarea class="validate-required" name="message" rows="4" placeholder="Sõnum"></textarea>
+                                <button type="submit">Saada Sõnum</button>
+                            </form>
+                        </div>
+                    </div>
+                    <!--end of row-->
+                </div>
+                <!--end of container-->
+            </section>	
+            <footer class="footer-2 bg-dark">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+                            <a href="avaleht">
+                                <img alt="Logo" class="image-xs mb32 fade-on-hover" src="img/logo3.png" />
+                            </a>
+                            <h5 class="fade-1-4">Joupinmäenpolku 4b-28
+                            	<br/> 02760 Espoo
+                            	<br/> Suomi
+                                <br/> &copy; 2017</h5>
+                        </div>
+                    </div>
+                    <!--end of row-->
+                </div>
+                <!--end of container-->
+            </footer>		
+		</div>
+		
+				
+		<script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/flexslider.min.js"></script>
+        <script src="js/lightbox.min.js"></script>
+        <script src="js/parallax.js"></script>
+        <script src="js/scripts.js"></script>
+        <script type="text/javascript">
+			$(function() {
+			    // Get the form.
+			    var form = $('#ajax-form');
+
+			    // Set up an event listener for the contact form.
+				$(form).submit(function(event) {
+			    // Stop the browser from submitting the form.
+			    event.preventDefault();
+
+			    // TODO
+				});
+				// Serialize the form data.
+				var formData = $(form).serialize();
+
+				// Submit the form using AJAX.
+				$.ajax({
+				    type: 'POST',
+				    url: $(form).attr('action'),
+				    data: formData
+				    success: function(response, err){
+		            console.log(response);
+		          	}
+				});
+			});      
+	</script>
+    </body>
+</html>
+				
